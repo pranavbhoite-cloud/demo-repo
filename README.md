@@ -1,5 +1,5 @@
 # 💫 About Me:
-Designing and supporting AWS-based infrastructure solutions using EC2, VPC, IAM, Route 53, and CloudWatch.<br>Open to collaborating on real-world DevOps and cloud automation projects.<br>Advanced AWS architecture patterns, Infrastructure as Code (Terraform/CloudFormation), CI/CD pipelines, and real-world DevOps implementation strategies.<br>Advanced networking in AWS, infrastructure automation, , and improving system design skills for high-availability architectures.<br>AWS EC2 setup, IAM best practices, VPC basics, , , and troubleshooting cloud deployments.<br>I enjoy automating repetitive tasks if I do something twice, I try to script it the third time.
+Designing and supporting AWS-based infrastructure solutions using EC2, VPC, IAM, Route 53, and CloudWatch.<br>Open to collaborating on real-world DevOps and cloud automation projects.<br>Advanced AWS architecture patterns, Infrastructure as Code (Terraform/CloudFormation), CI/CD pipelines, and real-world DevOps implementation strategies.<br>Advanced networking in AWS, infrastructure automation, , and improving system design skills for high-availability architectures.<br>AWS EC2 setup, IAM best practices, VPC basics and troubleshooting cloud deployments.<br>I enjoy automating repetitive tasks if I do something twice, I try to script it the third time.
 
 
 ## 🌐 Socials:
